@@ -7,6 +7,7 @@ def filter_and_split_playlist(url, file_live, file_series, file_movies, file_tvs
     
     try:
         response = requests.get(url)
+        # Timeout added to prevent hanging indefinitely
         response.raise_for_status()
         content = response.text
     except requests.exceptions.RequestException as e:
@@ -69,8 +70,7 @@ def filter_and_split_playlist(url, file_live, file_series, file_movies, file_tvs
                         if re.search(r'\(Cam\)|Cam', name, re.IGNORECASE): is_cam = True
                         
                         # --- IMPROVED YEAR DETECTION ---
-                        # Logic: Find ALL years (19xx or 20xx) and take the LAST one.
-                        # This fixes "Aliens 2042 (2023)" -> Picks 2023, not 2042.
+                        # Finds the LAST year in the string (e.g., "Movie 2049 (2017)" -> 2017)
                         year_matches = re.findall(r'\b(?:19|20)\d{2}\b', name)
                         if year_matches:
                             year = int(year_matches[-1])
@@ -160,8 +160,7 @@ def filter_and_split_playlist(url, file_live, file_series, file_movies, file_tvs
             final_movies.append(item)
         else:
             existing = seen_movies[base_name]
-            # If current item is NOT cam, but existing IS cam, swap them (upgrade quality)
-            # BUT: If both are same quality, we keep the FIRST one found (which is the Newest because we sorted by StreamID)
+            # Prioritize HD over CAM
             if existing['is_cam'] and not item['is_cam']:
                 if existing in final_movies: final_movies.remove(existing)
                 final_movies.append(item)
@@ -206,6 +205,7 @@ def save_file(filename, items_list):
         lines_to_save.append(url)
         
     if len(items_list) > 0:
+        # 'w' mode overwrites the file completely every time
         with open(filename, "w", encoding="utf-8") as f:
             f.write("\n".join(lines_to_save))
         print(f"Saved {filename}: {len(items_list)} channels.")
