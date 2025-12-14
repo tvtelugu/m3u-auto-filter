@@ -12,7 +12,7 @@ def filter_and_split_playlist(url, file_live, file_series, file_movies, file_tvs
     except requests.exceptions.RequestException as e:
         print(f"Error downloading playlist: {e}")
         return
- 
+
     lines = content.splitlines()
     
     # Storage
