@@ -15,43 +15,75 @@ def filter_and_split_playlist(url, file_live, file_series, file_movies):
 
     lines = content.splitlines()
     
-    # Initialize lists (start with header)
-    live_lines = ["#EXTM3U"]
-    series_lines = ["#EXTM3U"]
-    movie_lines = ["#EXTM3U"]
+    # Lists to store pairs: [(info_line, url_line), ...]
+    live_items = []
+    series_items = []
+    movie_items = []
     
     for i in range(len(lines)):
         line = lines[i]
         
         if line.startswith("#EXTINF"):
-            # GLOBAL FILTER: Must contain "Telugu"
+            # GLOBAL FILTER: Check if original line contains "Telugu"
             if "Telugu" in line or "Teulugu" in line:
+                
+                # --- GLOBAL CLEANING (Applies to ALL) ---
+                
+                # 1. Remove (Telugu) and (telugu)
+                line = line.replace("(Telugu)", " ").replace("(telugu)", " ")
+                
+                # 2. Remove empty tvg-id=""
+                line = line.replace('tvg-id=""', '')
+
+                # 3. Remove group-title="..." completely
+                line = re.sub(r'group-title=".*?"', '', line)
+
+                # 4. Clean up extra double spaces
+                line = " ".join(line.split()) 
+                
+                # Get the URL (next line)
                 url = lines[i+1].strip() if i + 1 < len(lines) else ""
+                
+                # Create the item pair with the CLEANED line
+                item = (line, url)
+                
+                # --- CLASSIFICATION LOGIC ---
                 
                 # 1. SERIES CHECK (S01 E02 pattern)
                 if re.search(r"S\d+\s*E\d+", line, re.IGNORECASE):
-                    series_lines.append(line)
-                    series_lines.append(url)
+                    series_items.append(item)
                 
                 # 2. LIVE CHECK (Strictly .ts extension)
                 elif url.lower().endswith(".ts"):
-                    live_lines.append(line)
-                    live_lines.append(url)
+                    live_items.append(item)
                     
                 # 3. MOVIES CHECK (Everything else)
                 else:
-                    movie_lines.append(line)
-                    movie_lines.append(url)
+                    movie_items.append(item)
 
-    # Save Files
-    save_file(file_live, live_lines)
-    save_file(file_series, series_lines)
-    save_file(file_movies, movie_lines)
+    # --- SORTING LOGIC ---
+    # Reverse Series and Movies to show LATEST added first
+    series_items.reverse()
+    movie_items.reverse()
 
-def save_file(filename, data_list):
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write("\n".join(data_list))
-    print(f"Saved {filename}: {len(data_list)//2} channels.")
+    # --- SAVING ---
+    save_file(file_live, live_items)
+    save_file(file_series, series_items)
+    save_file(file_movies, movie_items)
+
+def save_file(filename, items_list):
+    lines_to_save = ["#EXTM3U"]
+    
+    for info, url in items_list:
+        lines_to_save.append(info)
+        lines_to_save.append(url)
+        
+    if len(items_list) > 0:
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write("\n".join(lines_to_save))
+        print(f"Saved {filename}: {len(items_list)} channels (Latest First).")
+    else:
+        print(f"No channels found for {filename}.")
 
 # --- Configuration ---
 m3u_url = "https://webhop.live/get.php?username=juno123&password=juno123&type=m3u_plus&output=ts"
