@@ -1,6 +1,7 @@
 import requests
 import re
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
 
 def filter_and_split_playlist(url, file_live, file_series, file_movies, file_tvshows):
     print(f"Downloading playlist from: {url}")
@@ -199,7 +200,22 @@ def filter_and_split_playlist(url, file_live, file_series, file_movies, file_tvs
     save_file(file_tvshows, tvshows_list_save)
 
 def save_file(filename, items_list):
-    lines_to_save = ["#EXTM3U"]
+    # --- CALCULATE IST TIME ---
+    # UTC Now
+    now_utc = datetime.now(timezone.utc)
+    # Add 5 hours 30 minutes offset
+    ist_offset = timedelta(hours=5, minutes=30)
+    now_ist = now_utc + ist_offset
+    # Format the timestamp
+    timestamp = now_ist.strftime("%Y-%m-%d %H:%M:%S IST")
+
+    # --- CREATE HEADER ---
+    lines_to_save = [
+        "#EXTM3U",
+        f"# Last Updated: {timestamp}",
+        "# Powered By @tvtelugu"
+    ]
+    
     for info, url in items_list:
         lines_to_save.append(info)
         lines_to_save.append(url)
