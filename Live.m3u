@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 2025-12-15 18:26:52 IST
+# Last Updated: 2025-12-16 07:34:03 IST
 # Powered By @tvtelugu
 #EXTINF:-1 tvg-logo="http://greenpa1.com/bbt.png",Bigg Boss 24X7 Telugu
 https://webhop.live:443/live/juno123/juno123/591439.ts
@@ -101,7 +101,7 @@ https://webhop.live:443/live/juno123/juno123/23797.ts
 https://webhop.live:443/live/juno123/juno123/23796.ts
 #EXTINF:-1 tvg-id="aradanatv.in" tvg-logo="https://tvtelugu.github.io/images/tvtelugu.png",Aradana SD
 https://webhop.live:443/live/juno123/juno123/355093.ts
-#EXTINF:-1 tvg-id="ts383" tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png",Kushi TV SD
+#EXTINF:-1 tvg-id="ts840" tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png",Kushi TV SD
 https://webhop.live:443/live/juno123/juno123/355504.ts
 #EXTINF:-1 tvg-id="ts840" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Star Sports 2 Telugu
 https://webhop.live:443/live/juno123/juno123/379755.ts

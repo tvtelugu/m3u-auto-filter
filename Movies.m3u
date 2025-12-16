@@ -1,6 +1,8 @@
 #EXTM3U
-# Last Updated: 2025-12-15 18:26:52 IST
+# Last Updated: 2025-12-16 07:34:03 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwyXKqVffOOoES5HhJutqivYEVi.jpg",Mowgli (2025) (CAM)
+https://webhop.live:443/movie/juno123/juno123/644379.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RGcVKH22rPBN21bq4nlx8wBUD6.jpg",Akhanda 2: Thaandavam (2025) (CAM)
 https://webhop.live:443/movie/juno123/juno123/643400.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",Tell Me Sof Y (2025)
@@ -1907,6 +1909,8 @@ https://webhop.live:443/movie/juno123/juno123/269699.mp4
 https://webhop.live:443/movie/juno123/juno123/269133.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",Society Of The Snow (2024)
 https://webhop.live:443/movie/juno123/juno123/264996.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",The Toxic Avenger (2023)
+https://webhop.live:443/movie/juno123/juno123/644373.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZlZTk4OGQtYjE3ZS00OTUwLThiNWYtOWIwMjUxYTIwNjNiXkEyXkFqcGc@._V1_.jpg",Americana (2023)
 https://webhop.live:443/movie/juno123/juno123/642834.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDyriGdFUmMP8SxES8jwbrGPm0t.jpg",The Beast In The River (2023)
