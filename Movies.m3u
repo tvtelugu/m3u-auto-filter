@@ -1,6 +1,12 @@
 #EXTM3U
-# Last Updated: 2025-12-19 00:06:08 IST
+# Last Updated: 2025-12-19 07:22:58 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/mufti-police-et00470953-1763532025.jpg",Mufti Police (2025)
+https://webhop.live:443/movie/juno123/juno123/646122.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdM8qE2OnOf1CICWCzXTGdBoHiDV7kmoumw&s",Divya Drushti (2025)
+https://webhop.live:443/movie/juno123/juno123/646121.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbydhHW7IYMcdvn9jO9BdW4eUwk.jpg",Dominic And The Ladies' Purse (2025)
+https://webhop.live:443/movie/juno123/juno123/646119.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gonxzI6uQxPdhscjKdjuSC8yVJx.jpg",Raju Weds Rambai (2025)
 https://webhop.live:443/movie/juno123/juno123/645486.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQxMTQ3NzktYmVhNy00Njc4LWIwMTctMzRlNzY2MzdiY2FkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",W/O Anirvesh (2025)
@@ -79,7 +85,7 @@ https://webhop.live:443/movie/juno123/juno123/634155.mp4
 https://webhop.live:443/movie/juno123/juno123/634154.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUiAm0jbrPgbUDCOhRKsvdT0u5h.jpg",Sisu: Road To Revenge (2025)
 https://webhop.live:443/movie/juno123/juno123/632834.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgaaEfy2FoNpoGlBwmYtY9Vsary.jpg",Premante (2025) (CAM)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgaaEfy2FoNpoGlBwmYtY9Vsary.jpg",Premante (2025)
 https://webhop.live:443/movie/juno123/juno123/632330.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0S2EZngyPV93Q1YEMpArZDAt3n.jpg",12A Railway Colony (2025)
 https://webhop.live:443/movie/juno123/juno123/632329.mp4
@@ -97,7 +103,7 @@ https://webhop.live:443/movie/juno123/juno123/631114.mp4
 https://webhop.live:443/movie/juno123/juno123/630337.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3jv9cICPkVHx48h2NZXW4c1ZnP.jpg",Diesel (2025)
 https://webhop.live:443/movie/juno123/juno123/629905.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFjN2E4YzAtZTU2Mi00M2NkLWFkODEtNmQyOGEyYjY2NmNiXkEyXkFqcGc@._V1_.jpg",Santhana Prapthirasthu (2025) (CAM)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFjN2E4YzAtZTU2Mi00M2NkLWFkODEtNmQyOGEyYjY2NmNiXkEyXkFqcGc@._V1_.jpg",Santhana Prapthirasthu (2025)
 https://webhop.live:443/movie/juno123/juno123/629036.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",Kaantha (2025)
 https://webhop.live:443/movie/juno123/juno123/628710.mp4
@@ -793,6 +799,8 @@ https://webhop.live:443/movie/juno123/juno123/457374.mp4
 https://webhop.live:443/movie/juno123/juno123/456210.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foRB1VjqluPwsYA953YrePBq8ZY.jpg",Katha Kamamishu (2025)
 https://webhop.live:443/movie/juno123/juno123/453509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhFurHAxVXS0vPYIPwU2fNGOUHk.jpg",To Live Through Death (2024)
+https://webhop.live:443/movie/juno123/juno123/646120.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKBAzaWPzs5AF9PC3PPXkxyIa7F.jpg",Lorry Chapter 1 (2024)
 https://webhop.live:443/movie/juno123/juno123/645422.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",Angels Fallen: Warriors Of Peace (2024)
