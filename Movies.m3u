@@ -1,6 +1,12 @@
 #EXTM3U
-# Last Updated: 2025-12-23 00:05:05 IST
+# Last Updated: 2025-12-23 07:24:17 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m52XidzKx94bKlToZfEXUnL3pdy.jpg",Together (2025)
+https://webhop.live:443/movie/juno123/juno123/647763.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",Roofman (2025)
+https://webhop.live:443/movie/juno123/juno123/647762.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",A Big Bold Beautiful Journey (2025)
+https://webhop.live:443/movie/juno123/juno123/647760.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",Avatar: Fire And Ash (2025) (CAM)
 https://webhop.live:443/movie/juno123/juno123/647207.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mq13ikKnV5OO70fDbfpiWLB2Z9N.jpg",The Great Flood (2025)
@@ -1931,6 +1937,8 @@ https://webhop.live:443/movie/juno123/juno123/269699.mp4
 https://webhop.live:443/movie/juno123/juno123/269133.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",Society Of The Snow (2024)
 https://webhop.live:443/movie/juno123/juno123/264996.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJaIw8OgACelojyV6YuVsOhtTLO.jpg",Ape Vs Mecha Ape (2023)
+https://webhop.live:443/movie/juno123/juno123/647761.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4YTkzNDYtMTA0Ni00YTU5LTkzZDEtMzgxNDM5MGFlMDgyXkEyXkFqcGc@._V1_.jpg",Sodara Sodarimanulara (2023)
 https://webhop.live:443/movie/juno123/juno123/645423.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWFkNmFhMGMtNjY1OC00NjFhLTg2MmUtNTFmMDdmZTIzMWVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",The Toxic Avenger (2023)
