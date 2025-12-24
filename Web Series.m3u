@@ -1,6 +1,30 @@
 #EXTM3U
-# Last Updated: 2025-12-24 00:05:21 IST
+# Last Updated: 2025-12-24 07:22:25 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E06
+https://webhop.live:443/series/juno123/juno123/648632.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E05
+https://webhop.live:443/series/juno123/juno123/646260.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E04
+https://webhop.live:443/series/juno123/juno123/646259.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E03
+https://webhop.live:443/series/juno123/juno123/646258.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E02
+https://webhop.live:443/series/juno123/juno123/646257.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E01
+https://webhop.live:443/series/juno123/juno123/646256.mp4
+#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E06
+https://webhop.live:443/series/juno123/juno123/648631.mp4
+#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E05
+https://webhop.live:443/series/juno123/juno123/648630.mp4
+#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E04
+https://webhop.live:443/series/juno123/juno123/643437.mp4
+#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E03
+https://webhop.live:443/series/juno123/juno123/643436.mp4
+#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E02
+https://webhop.live:443/series/juno123/juno123/643435.mp4
+#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E01
+https://webhop.live:443/series/juno123/juno123/643434.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZT_nzcHBLV4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLATzJ4z8WxBPE0LOyWffDL3dr-45g",Ideabaaz S01 E18
 https://webhop.live:443/series/juno123/juno123/647509.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZT_nzcHBLV4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLATzJ4z8WxBPE0LOyWffDL3dr-45g",Ideabaaz S01 E17
@@ -107,16 +131,6 @@ https://webhop.live:443/series/juno123/juno123/642931.mp4
 https://webhop.live:443/series/juno123/juno123/639123.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QZrMuySvXZ9VVdZOJxwhwLlaaN.jpg",Dhoolpet Police Station S01 E01
 https://webhop.live:443/series/juno123/juno123/639122.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E05
-https://webhop.live:443/series/juno123/juno123/646260.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E04
-https://webhop.live:443/series/juno123/juno123/646259.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E03
-https://webhop.live:443/series/juno123/juno123/646258.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E02
-https://webhop.live:443/series/juno123/juno123/646257.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaAH6EMRnsF4VpR7VBmUeBNouGSpCOfHPbA&s",Nayanam S01 E01
-https://webhop.live:443/series/juno123/juno123/646256.mp4
 #EXTINF:-1 tvg-logo="http://webhop.live:8080/images/c428855a83913f9321c6fed677e6a1de.jpeg",Chef Mantra S05 E05
 https://webhop.live:443/series/juno123/juno123/646255.mp4
 #EXTINF:-1 tvg-logo="http://webhop.live:8080/images/c428855a83913f9321c6fed677e6a1de.jpeg",Chef Mantra S05 E04
@@ -219,14 +233,6 @@ https://webhop.live:443/series/juno123/juno123/612445.mp4
 https://webhop.live:443/series/juno123/juno123/612444.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OKsvAetdr5k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLANJw5EitS1D-anP5I8dutaTARXaA",Bigg Boss Buzzz S09 E01
 https://webhop.live:443/series/juno123/juno123/612443.mp4
-#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E04
-https://webhop.live:443/series/juno123/juno123/643437.mp4
-#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E03
-https://webhop.live:443/series/juno123/juno123/643436.mp4
-#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E02
-https://webhop.live:443/series/juno123/juno123/643435.mp4
-#EXTINF:-1 tvg-logo="http://webhop.live:8080/images/974da17907445997ab517ee37f87d9a1.jpg",3 Roses S02 E01
-https://webhop.live:443/series/juno123/juno123/643434.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWL0zFNEgjijsFFZc8j6O32dOlR.jpg",Single Papa S01 E06
 https://webhop.live:443/series/juno123/juno123/642930.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91MdFkj6JN5sCiyTYPU4dZLOqoE.jpg",Single Papa S01 E05
