@@ -1,6 +1,10 @@
 #EXTM3U
-# Last Updated: 2025-12-25 00:04:13 IST
+# Last Updated: 2025-12-25 07:24:32 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQECu9AKL2OpzFFNaMX3rEfGAQk.jpg",Vritta (2025)
+https://webhop.live:443/movie/juno123/juno123/649178.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",Goodbye June (2025)
+https://webhop.live:443/movie/juno123/juno123/648991.mp4
 #EXTINF:-1 tvg-logo="https://www.pixelbb.com/images/2025/12/22/11.jpg",11:11 (2025)
 https://webhop.live:443/movie/juno123/juno123/648496.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m52XidzKx94bKlToZfEXUnL3pdy.jpg",Together (2025)
@@ -77,7 +81,7 @@ https://webhop.live:443/movie/juno123/juno123/636377.mp4
 https://webhop.live:443/movie/juno123/juno123/636376.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",Zootopia 2 (2025) (Kids) (CAM)
 https://webhop.live:443/movie/juno123/juno123/635881.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VbAWl5lR6A0xAvCB6sqbC2p9Xc.jpg",Andhra King Taluka (2025) (CAM)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VbAWl5lR6A0xAvCB6sqbC2p9Xc.jpg",Andhra King Taluka (2025)
 https://webhop.live:443/movie/juno123/juno123/635345.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg",The Pet Detective (2025)
 https://webhop.live:443/movie/juno123/juno123/635316.mp4
