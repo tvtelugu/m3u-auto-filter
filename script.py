@@ -268,8 +268,8 @@ def save_whats_new(filename, items_list):
 # ==========================================
 
 HOST_URL = "https://webhop.live"
-USERNAME = "juno123"
-PASSWORD = "juno123"
+USERNAME = "krishna2"
+PASSWORD = "krishna2"
 
 m3u_url = f"{HOST_URL}/get.php?username={USERNAME}&password={PASSWORD}&type=m3u_plus&output=ts"
 
