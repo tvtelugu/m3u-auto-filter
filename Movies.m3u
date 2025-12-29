@@ -1,6 +1,8 @@
 #EXTM3U
-# Last Updated: 2025-12-29 00:03:27 IST
+# Last Updated: 2025-12-29 07:33:56 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",Anaconda (2025) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/650969.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg",Vrusshabha (2025) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/650812.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4pfUqv2df1SLmHVLMWx5Uav9ew.jpg",Patang (2025) (CAM)
@@ -835,6 +837,8 @@ https://webhop.live:443/movie/Krishna2/Krishna2/457374.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/456210.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foRB1VjqluPwsYA953YrePBq8ZY.jpg",Katha Kamamishu (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/453509.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1NzEwZWUtYjM5YS00OTM2LWFiNWQtNDg3YjcwYTJiN2VkXkEyXkFqcGc@._V1_.jpg",Bagundi (2024)
+https://webhop.live:443/movie/Krishna2/Krishna2/650970.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhFurHAxVXS0vPYIPwU2fNGOUHk.jpg",To Live Through Death (2024)
 https://webhop.live:443/movie/Krishna2/Krishna2/646120.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKBAzaWPzs5AF9PC3PPXkxyIa7F.jpg",Lorry Chapter 1 (2024)
