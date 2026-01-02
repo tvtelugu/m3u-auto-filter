@@ -1,6 +1,14 @@
 #EXTM3U
-# Last Updated: 2026-01-02 00:04:35 IST
+# Last Updated: 2026-01-02 07:26:45 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UZrHOeryYvgVaEfUMY3hk1OWg0.jpg",Psych Siddhartha (2026) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/653267.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v71YwA416RIqvEMaQYQmY2tCPBV.jpg",Beauty (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/653318.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLOmriVwsfJRA1gQhA7g9na5mdO.jpg",The Demon Hunter (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/653266.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3t50UA1rl6Yt15eMJPkpMe2eMh.jpg",Azadi (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/653265.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwyXKqVffOOoES5HhJutqivYEVi.jpg",Mowgli (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/652848.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nefQSoki5Kshg1lvMSuVgy8aj5X.jpg",Motu Pa U Vs The Ghost House (2025)
@@ -343,8 +351,6 @@ https://webhop.live:443/movie/Krishna2/Krishna2/597486.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/597485.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGTF87VyfjtwwqRlT2apQg5YnEp.jpg",Mahavatar Narsimha (2025)(Multi Languages)
 https://webhop.live:443/movie/Krishna2/Krishna2/597312.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v71YwA416RIqvEMaQYQmY2tCPBV.jpg",Beauty (2025) (CAM)
-https://webhop.live:443/movie/Krishna2/Krishna2/596899.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIULuvuzbf54Fm1U5ckkEbK1Vai.jpg",23 (Iravai Moodu) (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/596898.mp4
 #EXTINF:-1 tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2025/09/g1rcor2wuaadtyg.jpg",4 Girls (2025)
@@ -845,6 +851,8 @@ https://webhop.live:443/movie/Krishna2/Krishna2/457374.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/456210.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foRB1VjqluPwsYA953YrePBq8ZY.jpg",Katha Kamamishu (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/453509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkfznkTshGBp88SFQQAGsr3R62z.jpg",Eye For An Eye 2 (2024)
+https://webhop.live:443/movie/Krishna2/Krishna2/653317.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1NzEwZWUtYjM5YS00OTM2LWFiNWQtNDg3YjcwYTJiN2VkXkEyXkFqcGc@._V1_.jpg",Bagundi (2024)
 https://webhop.live:443/movie/Krishna2/Krishna2/650970.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhFurHAxVXS0vPYIPwU2fNGOUHk.jpg",To Live Through Death (2024)
