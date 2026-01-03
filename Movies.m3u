@@ -1,8 +1,14 @@
 #EXTM3U
-# Last Updated: 2026-01-03 00:04:39 IST
+# Last Updated: 2026-01-03 07:20:20 IST
 # Powered By @tvtelugu
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UZrHOeryYvgVaEfUMY3hk1OWg0.jpg",Psych Siddhartha (2026) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/653267.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg",Ekō (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/653943.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJjZTNmOTMtY2ZhNS00MzE5LWE0N2UtYjJjMjk2NjJiMTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Sahakutumbaanam (2025) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/653719.mp4
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/drive-2025-et00475294-1765353841.jpg",Drive (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/653718.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v71YwA416RIqvEMaQYQmY2tCPBV.jpg",Beauty (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/653318.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLOmriVwsfJRA1gQhA7g9na5mdO.jpg",The Demon Hunter (2025)
