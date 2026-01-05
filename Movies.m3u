@@ -1,8 +1,10 @@
 #EXTM3U
-# Last Updated: 2026-01-05 00:03:00 IST
+# Last Updated: 2026-01-05 07:36:39 IST
 # Powered By @tvtelugu
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UZrHOeryYvgVaEfUMY3hk1OWg0.jpg",Psych Siddhartha (2026) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/653267.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3ZWM2NTgtN2ZiNC00OTQwLThhMjYtMzZiNWQ3MWQ4MGI2XkEyXkFqcGc@._V1_QL75_UY281_CR10,0,190,281_.jpg",Mark (2025) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/654780.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg",45 (2025) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/654433.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg",Ekō (2025)
