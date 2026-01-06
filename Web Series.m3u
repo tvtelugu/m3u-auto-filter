@@ -1,6 +1,30 @@
 #EXTM3U
-# Last Updated: 2026-01-06 00:07:11 IST
+# Last Updated: 2026-01-06 07:26:42 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uOTbf7hvWzapH00Omwaxq6wIa4c.jpg",Spring Fever S01 E01
+https://webhop.live:443/series/Krishna2/Krishna2/656026.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E11
+https://webhop.live:443/series/Krishna2/Krishna2/655767.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E10
+https://webhop.live:443/series/Krishna2/Krishna2/653941.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E09
+https://webhop.live:443/series/Krishna2/Krishna2/653021.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E08
+https://webhop.live:443/series/Krishna2/Krishna2/652708.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E07
+https://webhop.live:443/series/Krishna2/Krishna2/651837.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E06
+https://webhop.live:443/series/Krishna2/Krishna2/651490.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E05
+https://webhop.live:443/series/Krishna2/Krishna2/650069.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E04
+https://webhop.live:443/series/Krishna2/Krishna2/650068.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E03
+https://webhop.live:443/series/Krishna2/Krishna2/650067.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E02
+https://webhop.live:443/series/Krishna2/Krishna2/650066.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E01
+https://webhop.live:443/series/Krishna2/Krishna2/650065.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ly2gdZXT2oYHzc08kuNKr7AHiHn.jpg",Surely Tomorrow S01 E10
 https://webhop.live:443/series/Krishna2/Krishna2/654823.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fno2wMAyd4qwPEP891wqPYw8RCn.jpg",Surely Tomorrow S01 E09
@@ -43,26 +67,6 @@ https://webhop.live:443/series/Krishna2/Krishna2/624727.mp4
 https://webhop.live:443/series/Krishna2/Krishna2/620871.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3Ee5vrDQ6vg/maxresdefault.jpg",Mahabharat Ek Dharmayudh S01 E01
 https://webhop.live:443/series/Krishna2/Krishna2/617260.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E10
-https://webhop.live:443/series/Krishna2/Krishna2/653941.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E09
-https://webhop.live:443/series/Krishna2/Krishna2/653021.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E08
-https://webhop.live:443/series/Krishna2/Krishna2/652708.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E07
-https://webhop.live:443/series/Krishna2/Krishna2/651837.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E06
-https://webhop.live:443/series/Krishna2/Krishna2/651490.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E05
-https://webhop.live:443/series/Krishna2/Krishna2/650069.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E04
-https://webhop.live:443/series/Krishna2/Krishna2/650068.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E03
-https://webhop.live:443/series/Krishna2/Krishna2/650067.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E02
-https://webhop.live:443/series/Krishna2/Krishna2/650066.mp4
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E01
-https://webhop.live:443/series/Krishna2/Krishna2/650065.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QZrMuySvXZ9VVdZOJxwhwLlaaN.jpg",Dhoolpet Police Station S01 E14
 https://webhop.live:443/series/Krishna2/Krishna2/653921.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QZrMuySvXZ9VVdZOJxwhwLlaaN.jpg",Dhoolpet Police Station S01 E13
