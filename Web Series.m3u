@@ -1,8 +1,24 @@
 #EXTM3U
-# Last Updated: 2026-01-07 00:06:19 IST
+# Last Updated: 2026-01-07 07:26:32 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ly00dZMYpi2kfiEHP2FGml1DlkC.jpg",Spring Fever S01 E02
+https://webhop.live:443/series/Krishna2/Krishna2/657607.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uOTbf7hvWzapH00Omwaxq6wIa4c.jpg",Spring Fever S01 E01
 https://webhop.live:443/series/Krishna2/Krishna2/656026.mp4
+#EXTINF:-1 tvg-logo="https://sach.org.in/media/video-bg.e6fe537e.png",Sach : Dr Subhash Chandra S01 E06
+https://webhop.live:443/series/Krishna2/Krishna2/657604.mp4
+#EXTINF:-1 tvg-logo="https://sach.org.in/media/video-bg.e6fe537e.png",Sach : Dr Subhash Chandra S01 E05
+https://webhop.live:443/series/Krishna2/Krishna2/657603.mp4
+#EXTINF:-1 tvg-logo="https://sach.org.in/media/video-bg.e6fe537e.png",Sach : Dr Subhash Chandra S01 E04
+https://webhop.live:443/series/Krishna2/Krishna2/657602.mp4
+#EXTINF:-1 tvg-logo="https://sach.org.in/media/video-bg.e6fe537e.png",Sach : Dr Subhash Chandra S01 E03
+https://webhop.live:443/series/Krishna2/Krishna2/657601.mp4
+#EXTINF:-1 tvg-logo="https://sach.org.in/media/video-bg.e6fe537e.png",Sach : Dr Subhash Chandra S01 E02
+https://webhop.live:443/series/Krishna2/Krishna2/657600.mp4
+#EXTINF:-1 tvg-logo="https://sach.org.in/media/video-bg.e6fe537e.png",Sach : Dr Subhash Chandra S01 E01
+https://webhop.live:443/series/Krishna2/Krishna2/657599.mp4
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E12
+https://webhop.live:443/series/Krishna2/Krishna2/657412.mp4
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E11
 https://webhop.live:443/series/Krishna2/Krishna2/655767.mp4
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_482,h_723,c_scale,f_webp,q_auto:eco/resources/0-6-4z5878600/portrait/1920x7701f20933436fe4af1baa7c98ef4621773a055d29373be4364a0a82655ef0f216f.jpg",Lakshmi Raave Maa Intiki S01 E10
