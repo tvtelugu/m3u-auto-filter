@@ -1,6 +1,12 @@
 #EXTM3U
-# Last Updated: 2026-01-14 00:05:35 IST
+# Last Updated: 2026-01-14 07:31:32 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfj6SLSzbzHN2633HcqabHFJz5y.jpg",Mana Shankaravaraprasad Garu (2026) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/663217.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YFFbBiX8EMUCUHEewc4hxJ7Xyg.jpg",Bhartha Mahasayulaku Wignyapthi (2026) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/663216.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg",Anantha (2026)
+https://webhop.live:443/movie/Krishna2/Krishna2/663213.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",The Rajasaab (2026) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/661737.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",People We Meet On Vacation (2026)
@@ -6327,6 +6333,8 @@ https://webhop.live:443/movie/Krishna2/Krishna2/65287.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/65235.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2",Adavallaku Matrame (1994)
 https://webhop.live:443/movie/Krishna2/Krishna2/64754.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2FGbyzk2dTAlu37iGeQBbUjLLE.jpg",Nowhere To Run (1993)
+https://webhop.live:443/movie/Krishna2/Krishna2/663214.mp4
 #EXTINF:-1 tvg-logo="http://starshare.live:8080/images/39f0a57809e01ea57d2b6c8d1537bbd1.jpg",Manavarali Pelli (1993)
 https://webhop.live:443/movie/Krishna2/Krishna2/66004.mp4
 #EXTINF:-1 tvg-logo="http://starshare.live:8080/images/340e7f08b6d0f544cc89178903129a24.jpg",Srinatha Kavi Sarvabhowmudu (1993)
