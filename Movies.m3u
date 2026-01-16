@@ -1,6 +1,8 @@
 #EXTM3U
-# Last Updated: 2026-01-16 00:10:49 IST
+# Last Updated: 2026-01-16 07:28:16 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",Anaganaga Oka Raju (2026) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/664319.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfj6SLSzbzHN2633HcqabHFJz5y.jpg",Mana Shankaravaraprasad Garu (2026) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/663217.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YFFbBiX8EMUCUHEewc4hxJ7Xyg.jpg",Bhartha Mahasayulaku Wignyapthi (2026) (CAM)
@@ -15,6 +17,12 @@ https://webhop.live:443/movie/Krishna2/Krishna2/659936.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/658628.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UZrHOeryYvgVaEfUMY3hk1OWg0.jpg",Psych Siddhartha (2026) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/653267.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo7TpR3Pyfxl7DjT3VlvMFgFeOd.jpg",Gurram Paapi Reddy (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/664345.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg",Bank Of Bhagyalakshmi (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/664344.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vdogNH72GrriiZ45H8U7CPWGfO.jpg",Kalamkaval (2025)
+https://webhop.live:443/movie/Krishna2/Krishna2/664317.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJhYjJkZTktMTFlNS00Zjk4LTg0YzYtMmI0YTY3OTM1YzJkXkEyXkFqcGc@._V1_.jpg",I U Me Yedava (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/663786.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miGiKbwWpMBdh49PpPvQP5u5DjI.jpg",Rippan Swamy (2025)
@@ -885,6 +893,8 @@ https://webhop.live:443/movie/Krishna2/Krishna2/457374.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/456210.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foRB1VjqluPwsYA953YrePBq8ZY.jpg",Katha Kamamishu (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/453509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjRNquWyWLnsn1DwGjZqJFUXdjb.jpg",Shell (2024)
+https://webhop.live:443/movie/Krishna2/Krishna2/664318.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiNDVjZDctOThiNS00ODcyLTk1MWEtYmJiYzlkNzNiNmI0XkEyXkFqcGc@._V1_.jpg",Ka (2024)
 https://webhop.live:443/movie/Krishna2/Krishna2/658626.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nryykQqfU7yqTz4FD7uEBjseZp.jpg",Ayalaan (2024)
