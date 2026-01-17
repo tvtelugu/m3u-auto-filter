@@ -1,6 +1,10 @@
 #EXTM3U
-# Last Updated: 2026-01-17 00:07:26 IST
+# Last Updated: 2026-01-17 07:28:37 IST
 # Powered By @tvtelugu
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg",Nari Nari Naduma Murari (2026) (CAM)
+https://webhop.live:443/movie/Krishna2/Krishna2/664963.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",The Rip (2026)
+https://webhop.live:443/movie/Krishna2/Krishna2/664943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCzGY1JD4DXqAjDKhsesKzs9vdK.jpg",Anaganaga Oka Raju (2026) (CAM)
 https://webhop.live:443/movie/Krishna2/Krishna2/664319.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfj6SLSzbzHN2633HcqabHFJz5y.jpg",Mana Shankaravaraprasad Garu (2026) (CAM)
@@ -893,6 +897,8 @@ https://webhop.live:443/movie/Krishna2/Krishna2/457374.mp4
 https://webhop.live:443/movie/Krishna2/Krishna2/456210.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foRB1VjqluPwsYA953YrePBq8ZY.jpg",Katha Kamamishu (2025)
 https://webhop.live:443/movie/Krishna2/Krishna2/453509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg",The Wild Blade Of Strangers (2024)
+https://webhop.live:443/movie/Krishna2/Krishna2/664944.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjRNquWyWLnsn1DwGjZqJFUXdjb.jpg",Shell (2024)
 https://webhop.live:443/movie/Krishna2/Krishna2/664318.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiNDVjZDctOThiNS00ODcyLTk1MWEtYmJiYzlkNzNiNmI0XkEyXkFqcGc@._V1_.jpg",Ka (2024)
@@ -4717,6 +4723,8 @@ https://webhop.live:443/movie/Krishna2/Krishna2/10623.mkv
 https://webhop.live:443/movie/Krishna2/Krishna2/10589.mkv
 #EXTINF:-1 tvg-logo="http://starshare.live:8080/images/bdd34eb241bf3d74098aaf29529a2f02.jpg",Avengers: Infinity War (2018)
 https://webhop.live:443/movie/Krishna2/Krishna2/10561.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctViyxTFf7r89sUg7jWNqk7cbbT.jpg",Beyond Skyline (2017)
+https://webhop.live:443/movie/Krishna2/Krishna2/664945.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",It (2017)
 https://webhop.live:443/movie/Krishna2/Krishna2/618521.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bq3wmW5ZJsnOHM6NLGsjDvX7CxB.jpg",Escape Room (2017)
